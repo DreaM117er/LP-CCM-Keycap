@@ -28,11 +28,11 @@
 
 - 其實這套鍵帽只有R1、R2、T，三種大小（Profile），再根據會使用到的鍵帽大小（Unit），延伸出1u以上的長度。
 
-![intro2](info/intro2.png)
+![intro2](info/intro1.png)
 
 - 根據現有的矮軸，分為Choc及MX十字兩種安裝軸孔。
 
-![intro3](info/intro3.png)
+![intro3](info/intro3.png)![intro2](info/intro2.png)
 
 - 並且根據現有的Gateron、Kailh兩種矮軸衛星軸軸孔孔距，搭配在6.25u的鍵帽上，兩者通用。
 
