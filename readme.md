@@ -54,7 +54,6 @@
 - KLP Switch: [PG1350](datasheet/LP%20Choc%20v1：CPG135001D01-spec.pdf) & [PG1353](datasheet/LP%20Choc%20v2：CPG135301D01-spec.pdf).
 - GLP Switch: [KS-27H](datasheet/LP%20Gateron：SPEC-KS-27H10B050NN-X5.pdf).
 - [GLP](datasheet/GLP-Stablizer.png) & [KLP](datasheet/KLP-Stablizer.jpg) stablizer.
-
 - Special thanks [JLC3DP](https://jlcpcb.com/).
 
 ## Gallary
