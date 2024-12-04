@@ -4,7 +4,11 @@
 
 ## Introduction
 
+This is a set of keycaps that can be installed in any way you like.
 
+- Supports both MX and Choc keyswitch.
+- Supports Gateron and Kailh Low-Profile stablizer.
+- The 6.25u keycaps support two different steelwire lengths.
 
 ## Inspiration
 
