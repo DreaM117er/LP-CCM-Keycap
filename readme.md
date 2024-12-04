@@ -6,9 +6,10 @@
 
 This is a set of keycaps that can be installed in any way you like.
 
-- Supports both MX and Choc keyswitch.
-- Supports Gateron and Kailh Low-Profile stablizer.
+- Supports both `MX` and `Choc` keyswitch.
+- Supports `Gateron` and `Kailh` Low-Profile stablizer.
 - The 6.25u keycaps support two different steelwire lengths.
+- `18x18mm` for `1u` spacing key.
 
 ## Inspiration
 
@@ -18,7 +19,7 @@ This is a set of keycaps that can be installed in any way you like.
 - KLP Lame.
 - We always rotate the keycaps to fit/install your split keyboard.
 
-## Size & Profile
+## Profile
 
 ![intro1](info/intro1.png)
 ![intro2](info/intro2.png)
